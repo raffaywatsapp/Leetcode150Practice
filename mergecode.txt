@@ -1,1 +1,9 @@
-sdsds
+
+1. git config --global user.name "your name"
+2. git config --global user.email "email" 
+3. git clone repo URL
+4. git remote remove origin
+5. git remote add origin https://[TOKEN]@github.com/[REPO-OWNER]/[REPO-NAME] 
+4. git add learning.txt
+5. git commit -m "your message"
+6. git push origin main
