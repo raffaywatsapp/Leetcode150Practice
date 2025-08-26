@@ -18,3 +18,4 @@ if __name__ == "__main__":
 
     print("New length:", k)
     print("Array after removal:", nums[:k])
+" code"
